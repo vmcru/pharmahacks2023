@@ -1,5 +1,7 @@
 # pharmahacks2023
 
+based on the following [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390976/)
+
 ## What it does
 Boosting is an ensemble technique that attempts to create a strong classifier from a number of weak classifiers.
 
